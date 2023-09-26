@@ -1,0 +1,339 @@
+/* ========================================
+Start Footer Area
+==========================================*/
+.footer-area {
+  background-color: #222222;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  padding:80px 90px;
+}
+
+.footer-area .footer-shape-1 {
+  position: absolute;
+  left: 0;
+  bottom: 77px;
+  z-index: -1;
+  max-width: 130px;
+}
+
+.footer-area .footer-shape-2 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.footer-area .col-lg-3:nth-child(4) .footer-widget {
+  padding-left: 39px;
+}
+
+.footer-widget .black-logo {
+  display: block !important;
+}
+
+.footer-widget .white-logo {
+  display: none !important;
+}
+
+.footer-widget.footer-widget-link {
+  padding-left: 50px;
+}
+
+
+.footer-widget img {
+  margin-bottom: 20px;
+}
+
+.footer-widget p {
+  margin: 36px 0;
+  font-size: 21px;
+  max-width: 532px;
+  line-height: 26px;
+  color: var(--whiteColor);
+  text-decoration: underline;
+}
+
+.footer-widget .follow-list {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+}
+
+.footer-widget .follow-list li {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.footer-widget .follow-list li:last-child {
+  margin-right: 0;
+}
+
+.footer-widget .follow-list li a {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--whiteColor);
+  font-size: 38px;
+  background: var(--mainColor);
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.footer-widget .follow-list li a:hover {
+  background-color: var(--whiteColor);
+  color: var(--mainColor);
+}
+
+.footer-widget h2 {
+  font-size: 27px;
+  margin-bottom: 28px;
+  color: var(--whiteColor);
+}
+
+.footer-widget .menu {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+}
+
+.footer-widget .menu li {
+  list-style-type: none;
+  position: relative;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  margin-bottom: 6px;
+}
+
+.footer-widget .menu li:last-child {
+  margin-bottom: 0;
+}
+
+.footer-widget .menu li a {
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+  font-size: 21px;
+  line-height: 32px;
+  color: var(--whiteColor);
+  font-weight: 700;
+}
+
+.footer-widget .menu li:hover a {
+  color: var(--mainColor);
+}
+
+.footer-widget .touch-content {
+  position: relative;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;;
+}
+
+.footer-widget .touch-content p {
+  margin-bottom: 0;
+  max-width: 366px;
+  margin-top: 15px;
+  text-decoration: none;
+  line-height: 35px;
+}
+
+/* -----------------------------------------
+Start Subscribe Area
+-------------------------------------------*/
+.subscribe-area {
+  position: relative;
+  z-index: 1;
+  border-top: 1px solid rgba(221, 212, 212, 0.36);
+  border-bottom: 1px solid rgba(221, 212, 212, 0.36);
+  padding-top: 90px;
+  padding-bottom: 90px;
+  overflow: hidden;
+}
+
+.subscribe-area .section-title {
+  margin-bottom: 0;
+  position: relative;
+  z-index: 2;
+}
+
+.subscribe-area .section-title .top-title {
+  color: var(--whiteColor);
+}
+
+.subscribe-area .section-title h2 {
+  margin-bottom: 0;
+  color: var(--whiteColor);
+}
+
+.subscribe-area::after {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 700px;
+  background-color: #2CB2B3;
+  border-radius: 0px 200px 200px 0px;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.subscribe-area::before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 700px;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  background-image: url(../../assets/images/subscribe-bg-shape.webp);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.subscribe-from {
+  position: relative;
+  z-index: 1;
+}
+
+.subscribe-from.subscribe-from-style-2 .newsletter-form div#validator-newsletter {
+  color: var(--whiteColor);
+}
+
+.subscribe-from.subscribe-from-style-2 .newsletter-form .default-btn {
+  font-size: 18px;
+  top: 5.5px;
+  right: 5.5px;
+  padding: 16.5px 40px;
+}
+
+.subscribe-from.subscribe-from-style-2 .newsletter-form .form-control {
+  border-radius: 35px;
+}
+
+.subscribe-from .newsletter-form {
+  position: relative;
+}
+
+.subscribe-from .newsletter-form .default-btn {
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 18px;
+  padding:10px 60px 10px 20px;
+}
+
+.subscribe-from .newsletter-form .default-btn:hover{
+  background-color:var(--whiteColor);
+  color: var(--mainColor);
+}
+.subscribe-from .newsletter-form .default-btn:hover:before{
+  background: var(--whiteColor);
+}
+.subscribe-from .newsletter-form .form-control {
+  height: 48px;
+  margin-top: 18px;
+  display: flex;
+  align-items: center;
+  background: #4B4B4B;
+  color: var(--whiteColor);
+  border: 1px solid #4B4B4B;
+  border-radius: 0px;;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.subscribe-from .newsletter-form .form-control::-webkit-input-placeholder {
+  color: #D9DBE1;
+}
+
+.subscribe-from .newsletter-form .form-control:-ms-input-placeholder {
+  color: #D9DBE1;
+}
+
+.subscribe-from .newsletter-form .form-control::-ms-input-placeholder {
+  color: #D9DBE1;
+}
+
+.subscribe-from .newsletter-form .form-control::placeholder {
+  color: #D9DBE1;
+}
+
+.subscribe-from .newsletter-form .form-control:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: 1px solid var(--mainColor);
+  background-color: transparent;
+}
+
+.subscribe-from .newsletter-form .form-control:focus::-webkit-input-placeholder {
+  color: transparent;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.subscribe-from .newsletter-form .form-control:focus:-ms-input-placeholder {
+  color: transparent;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.subscribe-from .newsletter-form .form-control:focus::-ms-input-placeholder {
+  color: transparent;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.subscribe-from .newsletter-form .form-control:focus::placeholder {
+  color: transparent;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+
+.subscribe-from .newsletter-form div#validator-newsletter {
+  position: absolute;
+  color: var(--mainColor);
+}
+
+/* ========================================
+End Footer Area
+==========================================*/
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .footer-area{
+      padding: 50px 60px!important;
+    }
+    .footer-widget h2{
+        font-size: 20px;
+    }
+    .footer-widget p,
+    .footer-widget .menu li a,
+    .subscribe-from .newsletter-form .default-btn {
+        font-size: var(--fontSize);
+    }
+    .footer-widget .menu li a {
+      line-height: 20px;
+    }
+
+    .footer-widget .touch-content p {
+      margin-top: 0;
+      line-height: 22px;
+    }
+    .footer-widget .black-logo {
+      width: 50%;
+    }
+    .footer-widget p {
+      margin:20px 0;
+    }
+    .subscribe-from .newsletter-form .form-control,
+    .subscribe-from .newsletter-form .default-btn {
+      height: 40px;
+      margin-top: 10px;
+    }
+}

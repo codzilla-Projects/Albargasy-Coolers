@@ -1,0 +1,624 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --fontFamily: 'Cairo', sans-serif;
+    --fontFamily1: 'Cairo', sans-serif;
+}
+body{
+    direction: rtl;
+}
+.products-slider{
+    direction: ltr;
+}
+/*
+.layout-home {
+    direction: ltr;
+}
+*/
+.main-navbar .navbar .navbar-nav .menu-item a{
+    text-align: right;
+}
+.main-navbar .navbar .navbar-nav .menu-item .dropdown-menu{
+    left: unset;
+    right:0;
+}
+.about-area .experience:before{
+    left: 0px;
+    right: 30px;
+}
+.products-page-slider {
+    direction: ltr;
+}
+.section-title h2:before {
+    bottom: -15px;
+}
+.layout-home .hero-image .home-content h1 strong{
+    font-family: 'Cairo', sans-serif;
+}
+.about-area .section-title h2:before, .about-us-area .section-title h2:before{
+    bottom: -27px;
+}
+.section-title {
+    margin-bottom: 70px;
+}
+.about-us-area .section-title {
+    margin-bottom: 80px;
+}
+.footer-widget .follow-list li {
+    margin-right: unset;
+    margin-left: 30px;
+}
+.footer-widget .follow-list li:last-child {
+    margin-left: 0;
+}
+.single-services-card .default-btn, .single-products-card .default-btn {
+    font-weight: 700;
+}
+.navbar-area .others-option-for-responsive {
+    left: 134px;
+    right: unset;
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-brand:hover, .is-sticky .navbar-light .navbar-brand, .navbar-light .navbar-brand {
+    margin-right: 10px;
+    margin-left: 0;
+}
+.main-navbar .navbar .navbar-nav .nav-item:first-child {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.main-navbar .navbar ul{
+    padding-right: 0;
+}
+.layout-home .hero-image .home-content h1 span.stay, .layout-home .hero-image .home-content h1 {
+    font-weight: 600;
+}
+.about-menu .others-option-for-responsive {
+    left: 100px!important;
+    right: unset!important;
+}
+.section-title {
+    margin-bottom: 50px;
+}
+
+.certificates .about-us-content h3 {
+    text-align: right;
+}
+.single-product .product-content p {
+    text-align: justify;
+    font-size: 32px;
+    line-height: 40px;
+}
+.single-product .product-content .location {
+    font-weight: 700;
+    margin-top: 20px;
+}
+.single-product .product-content h3 span{
+    margin-top: 0;
+}
+.single-product .slider-thumbnail {
+    padding: 9px 20px 0px;
+}
+.slider-thumbnail .swiper-button-prev {
+    right: -10px;
+    left: unset;
+}
+.slider-thumbnail .swiper-button-next {
+    left: -10px;
+    right: unset;
+}
+.text-start {
+    text-align: right!important;
+}
+.main-navbar .navbar .navbar-nav .nav-item .dropdown-menu {
+    left: unset;
+    right: 0;
+    text-align: right;
+}
+.maintenance .maintenance-content .maintenance-text h3 i{
+    margin-left: unset;
+    margin-right: 10px;
+}
+.maintenance .maintenance-content .maintenance-text h3{
+    left: -65px;
+}
+.techincal-text .pattern-top {
+    left: 0;
+    right: unset;
+    transform: unset;
+}
+.main-navbar .navbar .navbar-nav .nav-item .nav-link i {
+    left: unset;
+    right: 10px;
+}
+.subscribe-from .newsletter-form .default-btn {
+    padding: 10px 20px 10px 60px;
+}
+.main-navbar .navbar .navbar-nav .nav-item:last-child {
+    margin-right: 10px;
+}
+.services-page-area .single-services-card p {
+    min-height: 230px;
+}
+.main-wrapper .single-services-card p {
+    line-height: 40px;
+    min-height: 180px;
+}
+.management_page .management-page-area .single-services-card p.management-content {
+    min-height: 504px;
+    line-height: 36px;
+}
+
+.bx-chevrons-right:before {
+    content: "\ea54";
+}
+.layout-home .hero-image .home-content h1 {
+   padding-left: unset;
+    text-align: right;
+    padding-right: 108px;
+}
+.layout-home .hero-image .home-content .default-btn {
+    margin-right: 205px;
+    margin-left: unset;
+}
+.layout-home .hero-image .home-content .product img.img-product {
+    margin-left: unset;
+    margin-right: -135px;
+    width: 95%;
+}
+.management_page .single-services-card p {
+    color: var(--blackColor);
+    font-size: 25px;
+    line-height: 38px;
+}
+.single-services-card {
+    width: 415px;
+}
+.single-product .product-content h3 span {
+    margin-top: 0;
+    padding-bottom: 10px;
+    font-size: 35px;
+}
+.single-product .tabset > input[type="radio"]{
+    right: -200vw!important;
+    left: unset!important;
+}
+.single-product .product-content {
+    padding-right: 35px;
+    padding-left: unset;
+}
+.single-product .wrapper label.st5:before, .single-product .wrapper label.st2:before, .single-product .wrapper label.st3:before, .single-product .wrapper label.st4:before {
+    color: var(--mainColor);
+}
+.single-product .wrapper label.st1:before{
+    color: #D9D9D9
+}
+.layout-home img.pattern-right {
+    position: absolute;
+    left: 0;
+    right: unset;
+    transform: rotate(180deg)
+}
+.layout-home .hero-image .home-content h1 span.stay, .layout-home .hero-image .home-content h1 span {
+    letter-spacing: 0;
+}
+.go-top.active {
+    left: 0;
+    right: unset;
+}
+.layout-home .hero-image .home-content h1 span.stay, .layout-home .hero-image .home-content h1 span, .layout-home .hero-image .home-content h1 strong {
+    letter-spacing: 0;
+}
+.layout-home .hero-image .home-content h1{
+    font-size: 60px;
+}
+.sl-nav li i{
+    top: 0;
+}
+.sl-nav li:hover .triangle {
+    right: 37px;
+}
+.sl-nav li:hover .triangle:after{
+        transform: rotate(135deg) translateY(0px) translatex(10px);
+}
+.sl-nav li ul li {
+    text-align: right;
+}
+.about-area .experience img.img-before {
+    right: 30px;
+}
+.about-area .about-content p {
+    font-size: 25px;
+    line-height: 50px;
+}
+.about-area .single-about-content .section-title {
+    margin-top: 15px;
+}
+.single-products-card ul li {
+    line-height: 40px;
+    font-size: 22px;
+}
+.certificates .about-us-content h3 {
+    line-height: 41px;
+}
+.certificates-title {
+    margin-bottom: 0;
+}
+.about-area .section-title h2:before, .about-us-area .section-title h2:before {
+    bottom: -20px;
+}
+.about-us-area .about-us-content p {
+    font-size: 25px;
+    line-height: 43px;
+}
+.certificates .about-us-content h3 {
+    font-size: 34px;
+    line-height: 56px!important;
+}
+.about-us-area .about-us-content p {
+    font-size: 23px;
+    line-height: 43px;
+}
+.products-page-slider .owl-nav button.owl-next {
+    right: -90px;
+}
+.products-page-slider .owl-nav button.owl-prev {
+    left: -90px;
+}
+.products-area {
+    padding: 50px 0px 50px;
+}
+.products-page-area .section-title {
+    margin-bottom: 50px!important;
+}
+.single-product .product-details p, .single-product .tab-panel ul li {
+    line-height: 41px;
+}
+.maintenance .pattern-right{
+    right: -35px;
+}
+.media-center .gallery-item a.gallery-link{
+   margin-right: 10px;
+}
+.contact-details .contact-address{
+  padding: 40px;
+}
+.single-contact-text p{
+    text-align: justify;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 60px;
+}
+.contact-details .contact-address span{
+    font-size: 26px;
+}
+.single-contact-text{
+  padding: 0 0 0 20px;
+}
+.contact-form{
+    padding: 0;
+}
+.contact-form .form-group .form-control{
+    font-weight: 800;
+}
+.contact-details .contact-email{
+    flex-direction: row-reverse;
+}
+.contact-us-area .pattern-right{
+    transform: rotateY(0deg);
+    left: unset;
+}
+.contact-form .form-group .form-control{
+    text-align: right;
+}
+@media only screen and (min-width: 1920px) {
+    .management-page-area .single-services-card p.management-content {
+        min-height: 480px;
+        line-height: 40px;
+        font-size: 21px;
+    }
+    .chairman .single-services-card p {
+        font-size: 20px;
+        line-height: 38px;
+    }
+    .management-page-area.chairman .single-services-card {
+        min-height: 397px;
+    }
+    .certificates-title {
+        padding: 89px 0 75px;
+        margin-bottom: 0!important;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 {
+        left: -28px;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 90px;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 i {
+        bottom: 10px;
+    }
+    .management-page-area.chairman .single-services-card .services-icon {
+        background-color: transparent;
+        margin-top: 18px;
+    }
+    .management-page-area .single-services-card .services-icon.management img {
+        max-height: 317px;
+    }
+
+    .management-page-area.chairman .single-services-card .services-icon {
+        margin: 0 auto;
+        margin-top: 17px;
+    }
+    .services-page-area .single-services-card p {
+        line-height: 40px;
+        min-height: 240px;
+        font-size: 23px;
+    }
+    .products-area.products-page-area>.container, .products-area.spare-parts>.container {
+        max-width: 1600px;
+    }
+    .single-products-card .products-icon img {
+        width: 85%;
+        height: auto;
+    }
+
+
+}
+@media only screen and (min-width: 1637px) and (max-width: 1919px){
+    .management-page-area.chairman .single-services-card .services-icon {
+        height: 305px;
+    }
+    .managment_page .management-page-area.chairman .single-services-card p {
+        margin-bottom: 0px;
+    }
+    .managment_page .management-page-area.chairman .single-services-card {
+        min-height: 365px;
+    }
+    .management-page-area .single-services-card p.management-content {
+        min-height: 455px;
+        font-size: 18px;
+        line-height: 38px;
+    }
+    .management-page-area .single-services-card p {
+        min-height: 189px;
+        font-size: 18px;
+        line-height: 35px;
+    }
+
+    .services-page-area .single-services-card p {
+        min-height: 234px;
+        font-size: 21px;
+        line-height: 40px;
+    }
+    .main-wrapper .single-services-card p {
+        min-height: 165px;
+    }
+    .single-product .product-content p {
+        font-size: 24px;
+        line-height: 42px;
+    }
+    .products-area.products-page-area>.container {
+        max-width: 1650px;
+    }
+    .about-area .about-content p {
+        font-size: 22px;
+        line-height: 43px;
+    }
+    .layout-home .hero-image .home-content .default-btn {
+        margin-right: 215px;
+    }
+    .techincal-text {
+        margin: 45px auto 70px;
+    }
+    .techincal-text p, .techincal-text ul li {
+        font-size: 22px;
+        line-height: 40px;
+    }
+    .single-contact-text p{
+        line-height: 50px;
+    }
+    .contact-details .contact-address span {
+        font-size: 21px;
+    }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1919px){
+    .layout-home .hero-image .home-content .product img.img-product {
+        margin: 35px auto 0 65px;
+        width: 90%;
+    }
+    .navbar-area .others-option-for-responsive {
+        right: unset!important;
+    }
+    .single-services-card {
+        width: auto;
+    }
+    .about-us-area .about-us-content p {
+        font-size: 21px;
+    }
+    .certificates-title {
+        padding: 89px 0 75px;
+        margin-bottom: 0!important;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 {
+        left: -28px;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 90px;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 i {
+        bottom: 10px;
+    }
+    .about-area .about-content p {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+}
+@media only screen and (min-width: 1200px) and (max-width: 1399px)
+{
+    .management-page-area .single-services-card p.management-content {
+        min-height: 325px;
+    }
+    .single-services-card p, .single-products-card ul li, .single-services-card .default-btn, .single-products-card .default-btn {
+        font-size: 16px;
+    }
+    .about-area .experience {
+        margin-left: unset;
+        margin-right: 30px;
+    }
+    .about-area .single-about-content .section-title {
+        margin-right: -30px;
+        margin-left: 30px;
+    }
+    .about-area .experience img.img-before {
+        right: 20px;
+    }
+    .navbar-area .others-option-for-responsive {
+        left: 70px;
+        right: unset;
+    }
+    .main-navbar .navbar-brand {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    .main-navbar .navbar .navbar-nav .nav-item:first-child {
+        margin-right: 0;
+        margin-left: 5px;
+    }
+    .about-us-area .about-us-content p {
+        font-size: 17px;
+        line-height: 29px;
+    }
+    .single-services-card p, .single-products-card ul li, .single-services-card .default-btn, .single-products-card .default-btn {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .services-page-area .single-services-card p {
+        min-height: 175px;
+    }
+    .single-product .product-content p {
+        font-size: 18px;
+        line-height: 31px;
+    }
+    .single-product .product-content .location, .single-product .wrapper label:before, .single-product .rating .rating-available {
+        font-size: 20px;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 {
+        font-size: 48px;
+        line-height: 75px;
+        font-weight: 600;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 i {
+        font-size: 53px;
+        bottom: 9px;
+    }
+
+    .main-navbar .navbar .navbar-nav .nav-item .nav-link i {
+        left: unset;
+        right: 3px;
+    }
+    .about-menu .main-navbar .navbar .navbar-nav .nav-item .nav-link, .is-sticky .main-navbar .navbar .navbar-nav .nav-item .nav-link {
+        line-height: 29px;
+    }
+    .footer-widget .touch-content p {
+        line-height: 28px;
+    }
+    .about-menu .sl-nav li i {
+        right: 4px!important;
+    }
+    .main-navbar .navbar .navbar-nav .nav-item:last-child {
+        margin-right: 5px;
+    }
+    .layout-home .hero-image .home-content .default-btn {
+        margin-right: 135px;
+        margin-left: unset;
+    }
+    .layout-home .hero-image .home-content h1 {
+        padding-right: 134px;
+        padding-left: unset;
+        text-align: right;
+        letter-spacing: 0;
+        font-size: 45px;
+        line-height: 59px;
+    }
+    .layout-home .hero-image .home-content .product img.img-product {
+       margin-right: unset;
+        margin-left: 100px;
+        width: 80%;
+        margin-top: -20px;
+    }
+    .single-services-card {
+        width: auto;
+    }
+    .main-wrapper .single-services-card p {
+        line-height: 27px;
+        min-height: 135px;
+    }
+    .single-product .product-content h3 span {
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .layout-home .hero-image .home-content h1 span.stay, .layout-home .hero-image .home-content h1 span, .layout-home .hero-image .home-content h1 strong {
+        letter-spacing: 0;
+    }
+    .layout-home {
+        padding-top: 120px;
+    }
+    .section-title h2:before{
+        bottom: -10px;
+
+    }
+    .about-area .about-content p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .about-area .section-title h2:before, .about-us-area .section-title h2:before {
+        bottom: -17px;
+    }
+    .about-us-area .section-title {
+        margin-bottom: 55px;
+    }
+    .certificates-title {
+        padding: 55px 0 55px;
+        margin-bottom: 0!important;
+    }
+    .about-area .section-title h2:before, .about-us-area .section-title h2:before {
+        bottom: -15px;
+    }
+    .certificates .about-us-content h3 {
+        font-size: 24px;
+        line-height: 41px!important;
+    }
+    .management-page-area .single-services-card p {
+        min-height: 170px;
+    }
+
+    .management-page-area .single-services-card h3 {
+        margin-bottom: 15px;
+    }
+    .management-page-area .single-services-card p {
+        font-size: 16px;
+    }
+    .managment_page .services-area .section-title h2:before {
+        bottom: -15px;
+    }
+    .products-page-slider .owl-nav button.owl-next {
+        right: -75px;
+    }
+    .products-page-slider .owl-nav button.owl-prev {
+        left: -75px;
+    }
+    .products-area.products-page-area>.container {
+        max-width: 1650px;
+    }
+    .techincal-text {
+        margin: 45px auto 70px;
+    }
+    .single-contact-text p {
+        font-weight: 700;
+        line-height: 40px;
+    }
+    .contact-details .contact-address span {
+        font-size: 19px;    
+    }
+}

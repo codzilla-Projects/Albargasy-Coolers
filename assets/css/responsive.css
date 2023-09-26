@@ -1,0 +1,317 @@
+@media (max-width: 1200px) {
+    .navbar-area.is-sticky{
+        background-color: var(--blackColor);
+    }
+    .about-menu.navbar-area.is-sticky{
+        background-color: var(--whiteColor);
+    }
+    .main-responsive-menu .logo .black-logo{
+        max-width: 150%;
+    }
+    .main-navbar .navbar .navbar-nav .menu-item.lang-item{
+      display: inline-block;
+    }
+    .main-responsive-nav .mean-container a.meanmenu-reveal{
+        color: var(--whiteColor);
+    }
+    .main-responsive-nav .mean-container a.meanmenu-reveal span{
+        background: var(--whiteColor);
+    }
+    .about-menu .main-responsive-nav .mean-container a.meanmenu-reveal{
+        color: var(--blackColor);
+    }
+    .about-menu .main-responsive-nav .mean-container a.meanmenu-reveal span{
+        background: var(--blackColor);
+    }
+    .layout-home{
+        padding-top: 65px;
+        height: 600px;
+    }
+    .layout-home img.pattern-right{
+        width: 20%;
+    }
+    .layout-home .hero-image .home-content h1{
+        padding: 0!important;
+        font-size: 30px!important;
+        line-height: 35px!important;
+        margin: 10px 0!important;
+        text-align: center!important;
+    }
+    .layout-home .hero-image .home-content .default-btn {
+        width: 180px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .text-start,.text-end{
+        text-align: center!important;
+    }
+    .layout-home .hero-image .home-content .default-btn{
+        margin: 0 auto;
+    }
+    .layout-home .hero-image .home-content .product img.img-product {
+        position: relative;
+        margin-top: 20px;
+        width: 60%;
+        margin-left: auto; 
+    }
+    .about-us-area{
+        padding: 50px 20px 0;
+    }
+    .about-us-area .about-us-content p {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 15px;
+    }
+
+    .about-area .about-content {
+        padding: 0 20px!important;
+    }
+    .certificates,
+    .about-us-area.strategy{
+        padding: 50px 20px!important;
+    }
+    .certificates .single-about-us-content{
+        padding: 0;
+    }
+    .certificates .about-us-content h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .about-area .about-content .row{
+        flex-direction: column-reverse;
+    }
+
+    .section-title h2,
+    .services-area .section-title,
+    .products-area .section-title{
+        font-size: 30px;
+        margin-bottom: 20px!important;
+    }
+    .about-area .about-content p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .about-area .about-content .single-about-content{
+        margin-bottom: 30px;
+    }
+    .about-area .experience,
+    .about-area .experience img,
+    .about-area .experience:before{
+        width: 100%;
+        height: 100%;
+    }
+
+    .services-area,
+    .products-area{
+        padding: 50px 20px;
+    }
+    .main-wrapper img.main-img {
+        display: none;
+    }
+    .single-services-card,
+    .single-products-card{
+        width: auto;
+        padding: 20px;
+    }
+    .brands-logos .owl-theme .owl-nav {
+        top: 37%;
+    }
+    .brands-slider .single-products-card{
+        padding: 5px;
+    }
+    .products-slider.owl-theme .owl-dots .owl-dot span, 
+    .products-page-slider.owl-theme .owl-dots .owl-dot span{
+        width: 20px;
+        height: 20px;
+    }
+    .footer-area{
+        padding: 80px 20px;
+    }
+    .footer-widget .black-logo{
+        margin: 0 auto;
+    }
+    .footer-widget p{
+        text-align: center;
+    }
+    .footer-widget .follow-list,
+    .footer-widget .menu li{
+        display: flex;
+        justify-content: center;
+    }
+    .footer-widget h2{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .subscribe-from .newsletter-form .default-btn {
+        margin: 18px auto;
+        width: 100%;
+        padding: 0;
+    }
+    /*About Page Managers*/
+    .managment_page .services-area{
+        padding: 50px 20px 0;
+    }
+    .management-page-area.chairman .single-services-card {
+        min-height: 365px;
+    }
+    .management-page-area .single-services-card{
+        padding: 20px;
+    }
+    .management-page-area .single-services-card .services-icon.management img{
+        max-height: 100%;
+    }
+    .management-page-area .single-services-card h3{
+        font-size: 22px;
+    }
+    .management-page-area .single-services-card h5 {
+        font-size: 16px;
+    }
+    .management-page-area.chairman .single-services-card .services-icon {
+        height: 320px;
+    }
+    .maintenance .pattern-right, .single-product .pattern-right{
+        display: none;
+    }
+    .techincal.maintenance .maintenance-content .maintenance-text {
+        width: 100%;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 {
+        font-size: 20px;
+        width: auto;
+        height: auto;
+        top: 60px;
+        left: 30px;
+        right: 30px;
+        bottom: 30px;
+        line-height: 40px;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 i{
+        font-size: 30px;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+    .techincal-text {
+        margin: 0px auto;
+        padding: 50px 20px 50px;
+        text-align: justify;
+        width: 100%;
+    }
+    .techincal-text p{
+        margin-top: 20px;
+    }
+    .services-page-area .single-services-card p{
+        min-height: 100%;
+    }
+    .products-page-slider .owl-nav button.owl-next {
+        right: -30px;
+        display: none;
+    }
+    .products-page-slider .owl-nav button.owl-prev {
+        left: -30px;
+        display: none;
+    }
+    .spare-parts .single-products-card .products-icon img {
+        width: 50%;
+    }
+    .single-contact-text{
+        margin-bottom: 30px;
+    }
+    .single-contact-text p{
+        line-height: 35px;
+    }
+
+    .contact-details .px-10, .contact-form{
+        padding: 0;
+    }
+    .contact-form .form-group .form-control{
+        padding: 10px ;
+        font-size: 18px;
+    }
+    .contact-form .form-group .form-control::placeholder{
+        font-size: 18px;
+    }
+    .contact-form .default-btn{
+        width: 100%;
+        margin: 0;
+    }
+    .contact-details{
+        padding: 50px 15px 100px;
+    }
+    .contact-details .contact-address:first-child{
+        margin-bottom: 30px;
+    }
+    .single-product{
+        padding: 50px 0;
+    }
+    .single-product .product-content{
+        padding: 0!important;
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 30px;
+    }
+    .single-product .products-details h3.product-title{
+        display: none;
+    }
+    .single-product .products-details h3.product-title-mobile{
+        display: block;
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .single-product .products-details h3.product-title-mobile span{
+      border-bottom: 5px solid var(--mainColor);
+      display: inline-block;
+      width: max-content;
+      margin-top: 0px;
+      padding: 10px 0;
+    }
+    .single-product .product-content p {
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .single-product .product-content ul{
+        text-align: center;
+    }
+    .single-product .product-content .location {
+        font-size: 19px;
+    }
+    .single-product .rating,
+    .single-product .product-content .location{
+        display: block;
+        text-align: center;
+    }
+    .single-product .rating .rating-available {
+        font-size: 25px;
+        margin: 0;
+    }
+    .single-product .tabbable-panel ul.nav li,
+    .single-product .tabbable-panel ul.nav li a{
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .single-product .tabbable-panel ul.nav li a{
+        font-size: 22px;
+        padding: 10px;
+    }
+    .single-product .products-details{
+        margin-bottom: 20px;
+        padding: 50px 20px;
+    }
+    .single-product .product-details{
+        padding: 20px;
+    }
+    .single-product .product-details p {
+        font-size: 18px;
+        line-height: 22px;
+        margin-top:30px;
+    }
+    p{
+        text-align: center!important;
+    }
+    .media-center .gallery-item .gallery-description p{
+        text-align: left!important;
+    }
+}

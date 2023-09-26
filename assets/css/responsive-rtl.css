@@ -1,0 +1,93 @@
+@media (max-width: 1200px) {
+    .section-title{
+        margin-bottom: 30;
+    }
+    .section-title h2,
+    .services-area .section-title,
+    .products-area .section-title{
+        font-size: 30px;
+        margin-bottom: 20px!important;
+    }
+    .navbar-area.is-sticky{
+        background-color: var(--blackColor);
+    }
+    .about-menu.navbar-area.is-sticky{
+        background-color: var(--whiteColor);
+    }
+    .main-responsive-nav .mean-container a.meanmenu-reveal{
+        left: 0!important;
+        right: auto!important;
+    }
+    .mean-container .mean-nav ul li a {
+        float: right;
+        text-align: right;
+        font-family: var(--fontFamily)!important;
+    }
+    .mean-container .mean-nav ul li li a{
+        font-family: var(--fontFamily)!important;
+    }
+    .mean-container .mean-nav ul li a.mean-expand{
+        text-align: left;
+        left: 5px;
+        right: unset;
+    }
+    .layout-home .hero-image .home-content h1 {
+        line-height: 65px;
+    }
+    .layout-home .hero-image .home-content .default-btn{
+        margin: 0 auto;
+    }
+    .layout-home .hero-image .home-content .product img.img-product{
+        margin-right: auto;
+        width: 60%;
+    }
+    .text-start{
+        text-align: center!important;
+    }
+    .about-area .about-content p {
+        line-height: 35px;
+    }
+    .single-services-card,
+    .single-products-card{
+        width: auto;
+    }
+    .about-us-area .about-us-content p {
+        font-size: 19px;
+        line-height: 35px;
+    }
+    .certificates .about-us-content h3 {
+        font-size: 25px;
+        line-height: 45px!important;
+        text-align: center;
+    }
+    .certificates .about-img{
+        margin-top: 30px;
+    }
+    .management-page-area.chairman .single-services-card,
+    .services-page-area .single-services-card p {
+        min-height:auto;
+    }
+    .maintenance .maintenance-content .maintenance-text h3 {
+        top: 100px;
+    }
+    .techincal-text p{
+        margin-top: 30px;
+    }
+    .techincal-text p, .techincal-text ul li {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .single-contact-text p{
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .single-product .wrapper label.st5:before{
+        color: var(--mainColor)!important;
+    }
+    p{
+        text-align: center!important;
+    }
+    .media-center .gallery-item .gallery-description p{
+        text-align: right!important;
+    }
+}

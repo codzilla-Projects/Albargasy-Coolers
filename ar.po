@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: coolers\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-06 10:41+0000\n"
+"PO-Revision-Date: 2023-09-18 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: coolers"
+
+#: lib/coolers_theme_init.php:91
+msgid " Description"
+msgstr ""
+
+#: coolers_options/home_page_options.php:191
+msgid "About Content"
+msgstr ""
+
+#: coolers_options/home_page_options.php:163
+msgid "About Image"
+msgstr ""
+
+#: coolers_options/about_page_options.php:45
+msgid "About Page Settings"
+msgstr ""
+
+#: coolers_options/home_page_options.php:49
+msgid "About Section"
+msgstr ""
+
+#: coolers_options/home_page_options.php:181
+msgid "About Title"
+msgstr ""
+
+#. Name of the template
+msgid "About Us Template"
+msgstr ""
+
+#: lib/coolers_theme_init.php:75
+msgid "Add New"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:69
+#: coolers_options/contact_page_options.php:218
+msgid "Address"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:144
+msgid "Aswan"
+msgstr ""
+
+#: single-product.php:66
+msgid "Available In"
+msgstr ""
+
+#: coolers_options/about_page_options.php:151
+msgid "Awards Content"
+msgstr ""
+
+#: coolers_options/about_page_options.php:164
+msgid "Awards Image"
+msgstr ""
+
+#: coolers_options/about_page_options.php:53
+msgid "Awards Section"
+msgstr ""
+
+#: coolers_options/about_page_options.php:138
+msgid "Awards Title"
+msgstr ""
+
+#: coolers_options/management_page_options.php:42
+msgid "Chairman Section"
+msgstr ""
+
+#: coolers_options/management_page_options.php:64
+msgid "Chairman Title"
+msgstr ""
+
+#: coolers_options/about_page_options.php:97
+#: coolers_options/about_page_options.php:168
+#: coolers_options/about_page_options.php:212
+#: coolers_options/about_page_options.php:283
+#: coolers_options/about_page_options.php:327
+#: coolers_options/home_page_options.php:76
+#: coolers_options/home_page_options.php:92
+#: coolers_options/home_page_options.php:105
+#: coolers_options/home_page_options.php:167
+#: coolers_options/products_page_options.php:162
+#: coolers_options/technical_page_options.php:67
+msgid "Choose"
+msgstr ""
+
+#: coolers_options/products_page_options.php:77
+msgid "Choose Desert Adaptations"
+msgstr ""
+
+#: coolers_options/products_page_options.php:74
+msgid "Choose Desert Adaptations Products"
+msgstr ""
+
+#: coolers_options/management_page_options.php:84
+#: coolers_options/management_page_options.php:87
+msgid "Choose Directors"
+msgstr ""
+
+#: coolers_options/home_page_options.php:310
+#: coolers_options/home_page_options.php:313
+msgid "Choose Partners"
+msgstr ""
+
+#: coolers_options/home_page_options.php:264
+msgid "Choose Products"
+msgstr ""
+
+#: coolers_options/home_page_options.php:267
+msgid "Choose products"
+msgstr ""
+
+#: coolers_options/home_page_options.php:223
+#: coolers_options/services_page_options.php:59
+msgid "Choose Services"
+msgstr ""
+
+#: coolers_options/home_page_options.php:226
+#: coolers_options/services_page_options.php:62
+msgid "Choose services"
+msgstr ""
+
+#: coolers_options/products_page_options.php:116
+msgid "Choose Spare Parts"
+msgstr ""
+
+#: coolers_options/products_page_options.php:119
+msgid "Choose Spare Parts Products"
+msgstr ""
+
+#. Author of the theme
+msgid "Codezilla"
+msgstr ""
+
+#: footer.php:61
+msgid "Company"
+msgstr ""
+
+#: coolers_options/about_page_options.php:57
+msgid "Company Strategy"
+msgstr ""
+
+#: coolers_options/about_page_options.php:341
+msgid "Company Strategy Content"
+msgstr ""
+
+#: coolers_options/about_page_options.php:323
+msgid "Company Strategy Image"
+msgstr ""
+
+#: coolers_options/about_page_options.php:310
+msgid "Company Strategy Title"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:105
+msgid "Contact Content"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:61
+msgid "Contact Page Settings"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:68
+msgid "Contact Settings"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:91
+msgid "Contact Title"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Us Template"
+msgstr ""
+
+#. Name of the theme
+#. Description of the theme
+msgid "coolers"
+msgstr ""
+
+#: coolers_options/products_page_options.php:45
+msgid "Desert Adaptations"
+msgstr ""
+
+#: lib/coolers_meta_fields.php:34
+msgid "Director Position: "
+msgstr ""
+
+#: coolers_options/management_page_options.php:35
+msgid "Directors Page Settings"
+msgstr ""
+
+#: coolers_options/management_page_options.php:43
+msgid "Directors Section"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:267
+msgid "Email"
+msgstr ""
+
+#: coolers_options/events_page_options.php:22
+msgid "Events Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Events Template"
+msgstr ""
+
+#: coolers_options/events_page_options.php:36
+msgid "Events Title"
+msgstr ""
+
+#: page-contact.php:109 coolers_options/contact_page_options.php:249
+msgid "Fax"
+msgstr "فاكس"
+
+#: lib/coolers_theme_init.php:83
+msgid "Featured Image"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:150
+msgid "First Branch Address"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:184
+msgid "First Mobile"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:118
+msgid "Form Shortcode"
+msgstr ""
+
+#: coolers_options/home_page_options.php:72
+msgid "hero Background Image"
+msgstr ""
+
+#: coolers_options/home_page_options.php:126
+msgid "Hero Button Text"
+msgstr ""
+
+#: coolers_options/home_page_options.php:135
+msgid "Hero Button URL"
+msgstr ""
+
+#: coolers_options/home_page_options.php:88
+msgid "hero Image"
+msgstr ""
+
+#: coolers_options/home_page_options.php:101
+msgid "hero Pattern Image"
+msgstr ""
+
+#: coolers_options/home_page_options.php:48
+msgid "hero Section"
+msgstr ""
+
+#: coolers_options/home_page_options.php:119
+msgid "Hero Title"
+msgstr ""
+
+#: coolers_options/about_page_options.php:71
+#: coolers_options/about_page_options.php:129
+#: coolers_options/about_page_options.php:186
+#: coolers_options/about_page_options.php:244
+#: coolers_options/about_page_options.php:301
+#: coolers_options/management_page_options.php:57
+#: coolers_options/management_page_options.php:79
+#: coolers_options/home_page_options.php:66
+#: coolers_options/home_page_options.php:154
+#: coolers_options/home_page_options.php:209
+#: coolers_options/home_page_options.php:250
+#: coolers_options/home_page_options.php:292
+#: coolers_options/products_page_options.php:60
+#: coolers_options/products_page_options.php:102
+#: coolers_options/products_page_options.php:143
+#: coolers_options/contact_page_options.php:83
+#: coolers_options/contact_page_options.php:136
+#: coolers_options/technical_page_options.php:48
+#: coolers_options/services_page_options.php:45
+msgid "Hide Section"
+msgstr ""
+
+#: coolers_options/home_page_options.php:41
+msgid "Home Page Settings"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://codzilla.net"
+msgstr ""
+
+#: coolers_options/products_page_options.php:158
+msgid "Image"
+msgstr ""
+
+#: coolers_options/technical_page_options.php:76
+msgid "Image Technical Title"
+msgstr ""
+
+#: coolers_options/products_page_options.php:171
+msgid "Image Title"
+msgstr ""
+
+#: single-product.php:121
+msgid "Key Features"
+msgstr ""
+
+#: coolers_options/products_page_options.php:47
+msgid "Maintenance"
+msgstr ""
+
+#. Name of the template
+msgid "Managers Template"
+msgstr ""
+
+#: coolers_options/media_center_page_options.php:22
+msgid "Media Center Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Media Center Template"
+msgstr ""
+
+#: coolers_options/media_center_page_options.php:36
+msgid "Media Center Title"
+msgstr ""
+
+#: page-contact.php:69 page-contact.php:75 page-contact.php:103
+#: coolers_options/contact_page_options.php:238
+msgid "Mobile"
+msgstr "موبايل "
+
+#: lib/coolers_theme_init.php:81
+msgid "Not found"
+msgstr ""
+
+#: lib/coolers_theme_init.php:82
+msgid "Not found in Trash"
+msgstr ""
+
+#: coolers_options/about_page_options.php:226
+msgid "Our Mission Content"
+msgstr ""
+
+#: coolers_options/about_page_options.php:208
+msgid "Our Mission Image"
+msgstr ""
+
+#: coolers_options/about_page_options.php:54
+msgid "Our Mission Section"
+msgstr ""
+
+#: coolers_options/about_page_options.php:195
+msgid "Our Mission Title"
+msgstr ""
+
+#: coolers_options/about_page_options.php:266
+msgid "Our Vision Content"
+msgstr ""
+
+#: coolers_options/about_page_options.php:279
+msgid "Our Vision Image"
+msgstr ""
+
+#: coolers_options/about_page_options.php:55
+msgid "Our Vision Section"
+msgstr ""
+
+#: coolers_options/about_page_options.php:253
+msgid "Our Vision Title"
+msgstr ""
+
+#: coolers_options/home_page_options.php:52
+msgid "Partners Section"
+msgstr ""
+
+#: coolers_options/home_page_options.php:298
+msgid "partners Title"
+msgstr ""
+
+#: single-product.php:114
+msgid "Product Details"
+msgstr ""
+
+#: lib/coolers_theme_init.php:203
+msgid "Product Gallery"
+msgstr ""
+
+#: coolers_options/products_page_options.php:38
+msgid "Products Page Settings"
+msgstr ""
+
+#: coolers_options/home_page_options.php:51
+msgid "Products Section"
+msgstr ""
+
+#. Name of the template
+msgid "Products Template"
+msgstr ""
+
+#: coolers_options/home_page_options.php:256
+msgid "Products Title"
+msgstr ""
+
+#: single-product.php:77
+msgid "Rating Available"
+msgstr ""
+
+#: lib/coolers_theme_init.php:85
+msgid "Remove featured image"
+msgstr ""
+
+#: lib/coolers_mail_functions.php:35 lib/coolers_mail_functions.php:168
+msgid "Required form field is missing"
+msgstr ""
+
+#: coolers_options/about_page_options.php:355
+#: coolers_options/management_page_options.php:106
+#: coolers_options/events_page_options.php:52
+#: coolers_options/home_page_options.php:334
+#: coolers_options/products_page_options.php:181
+#: coolers_options/contact_page_options.php:281
+#: coolers_options/technical_page_options.php:93
+#: coolers_options/media_center_page_options.php:52
+#: coolers_options/services_page_options.php:79
+msgid "Save Settings"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:162
+msgid "Seconde Branch Address"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:195
+msgid "Seconde Mobile"
+msgstr ""
+
+#: coolers_options/services_page_options.php:33
+msgid "Services Page Settings"
+msgstr ""
+
+#: coolers_options/home_page_options.php:50
+msgid "Services Section"
+msgstr ""
+
+#. Name of the template
+msgid "Services Template"
+msgstr ""
+
+#: coolers_options/home_page_options.php:215
+msgid "Services Title"
+msgstr ""
+
+#: coolers_options/services_page_options.php:51
+msgid "services Title"
+msgstr ""
+
+#: lib/coolers_theme_init.php:84
+msgid "Set featured image"
+msgstr ""
+
+#: coolers_options/contact_page_options.php:214
+msgid "Sheikh Zayed"
+msgstr ""
+
+#: coolers_options/products_page_options.php:46
+msgid "Spare Parts"
+msgstr ""
+
+#: single-product.php:127
+msgid "Specifications"
+msgstr ""
+
+#: coolers_options/technical_page_options.php:85
+msgid "Technical Content"
+msgstr ""
+
+#: coolers_options/technical_page_options.php:63
+msgid "Technical Image"
+msgstr ""
+
+#: coolers_options/technical_page_options.php:36
+msgid "Technical Page Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Technical Support Template"
+msgstr ""
+
+#: coolers_options/technical_page_options.php:54
+msgid "Technical Title"
+msgstr ""
+
+#: page-contact.php:95 coolers_options/contact_page_options.php:227
+msgid "Tel"
+msgstr "هاتف"
+
+#: coolers_options/contact_page_options.php:171
+msgid "Third Branch Address"
+msgstr ""
+
+#: coolers_options/products_page_options.php:66
+#: coolers_options/products_page_options.php:108
+#: coolers_options/products_page_options.php:149
+msgid "Title"
+msgstr ""
+
+#: lib/coolers_theme_init.php:86
+msgid "Use as featured image"
+msgstr ""
+
+#. Name of the template
+msgid "Videos Template"
+msgstr ""
+
+#: page-products.php:35 page-products.php:68 index.php:231 index.php:305
+msgid "VIEW MORE"
+msgstr "المزيد"
+
+#: coolers_options/about_page_options.php:111
+msgid "Who We Are Content"
+msgstr ""
+
+#: coolers_options/about_page_options.php:93
+msgid "Who We Are Image"
+msgstr ""
+
+#: coolers_options/about_page_options.php:52
+msgid "Who We Are Section"
+msgstr ""
+
+#: coolers_options/about_page_options.php:80
+msgid "Who We Are Title"
+msgstr ""
